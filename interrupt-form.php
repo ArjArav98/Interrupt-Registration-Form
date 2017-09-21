@@ -75,7 +75,7 @@
 	</head>
 	
 	<body>
-			<form action="test.php" method="post">
+			<form action="interrupt-action-form.php" method="post">
 				<header>INTERRUPT 2K17</header>
 				<input type="text" class="textFields" name="nameText" placeholder="Name" required></input>
 				<input type="text" class="textFields" name="collegeText" placeholder="College" required></input>
